@@ -2,4 +2,4 @@
 #Lets Play the Memory-Mastery
 
 # visit:
-https://sahillohan.github.io/Simon-Game/
+https://sahillohan.github.io/Memory-Mastery/
