@@ -1,5 +1,5 @@
-# Simon-Game
-Lets Play the simon Game
+
+#Lets Play the Memory-Mastery
 
 # visit:
 https://sahillohan.github.io/Simon-Game/
